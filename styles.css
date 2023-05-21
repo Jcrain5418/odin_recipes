@@ -1,3 +1,20 @@
+
+
+ul {
+    display: inline-flex;
+    list-style: none;
+}
+.link-list a {
+    background-color: red;
+    padding: 2px;
+    display: inline-box;
+    list-style: none;
+
+}
+
+.link-list a:hover {
+background-color: yellow;
+}
 .chef {
     height: auto;
     width: 500px;
