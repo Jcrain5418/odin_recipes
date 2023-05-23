@@ -2,6 +2,9 @@
 div {
     text-align: center;
 }
+.pbj {
+    text-align: center;
+}
 ul {
     display: inline-flex;
     list-style: none;
@@ -25,6 +28,7 @@ background-color: yellow;
     background-color: red;
     border-left: 1px;
     border-right: 1px;
+    padding: 1px;
 }
 .chef {
     display: block;
