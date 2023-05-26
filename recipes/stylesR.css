@@ -1,0 +1,41 @@
+h1 { 
+    text-align: center;
+}
+
+.contents {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
+
+.pbj {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:500px;
+    width: auto;
+
+}
+
+.peggy {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:500px;
+    width: auto;
+
+}
+
+.cereal {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:500px;
+    width: auto;
+}
+
+.link { 
+    display:inline-flex;
+}
