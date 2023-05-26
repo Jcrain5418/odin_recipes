@@ -2,9 +2,6 @@
 div {
     text-align: center;
 }
-.pbj {
-    text-align: center;
-}
 ul {
     display: inline-flex;
     list-style: none;
@@ -41,16 +38,26 @@ background-color: yellow;
 }
 
 .pbj {
-    height: auto;
-    width: 550px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:700px;
+    width: auto;
+
 }
 
 .peggy {
-    height: auto;
-    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:700px;
+    width: auto;
+
 }
 
 .cereal {
-    height: auto;
-    width: 500px;
-}
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:700px;
+    width: auto;
