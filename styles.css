@@ -6,10 +6,11 @@ ul {
     display: inline-flex;
     list-style: none;
     padding: 2px;
+    flex-direction: column;
     
 }
 .link-list a {
-    background-color: red;
+    background-color: green;
     padding: 2px;
     border: 10px;
     display: inline-box;
@@ -37,28 +38,3 @@ background-color: yellow;
     
 }
 
-/*.pbj {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height:700px;
-    width: auto;
-
-}
-
-.peggy {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height:700px;
-    width: auto;
-
-}
-
-.cereal {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height:700px;
-    width: auto;
-}*/

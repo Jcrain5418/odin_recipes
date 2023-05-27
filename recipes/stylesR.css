@@ -47,9 +47,7 @@ ol {
 }
 
 .button a {
-    background-color: red;
-    
-   
+    background-color: green;
 }
 .button a:hover {
     background-color: yellow;
