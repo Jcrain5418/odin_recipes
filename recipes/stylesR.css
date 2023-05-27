@@ -42,6 +42,15 @@ ol {
     width: auto;
 }
 
-.link { 
-    display:inline-flex;
+.button { 
+    text-align: center;
+}
+
+.button a {
+    background-color: red;
+    
+   
+}
+.button a:hover {
+    background-color: yellow;
 }
